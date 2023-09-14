@@ -1,3 +1,1 @@
-# geradorDeSenha
-
-Password Generator With JavaScript
+# appGeradorDeSenha
